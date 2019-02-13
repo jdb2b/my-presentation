@@ -11,4 +11,4 @@ The most important metric for your business
 
 # Why?
 
-Simplified performance comparisons and smarter forecasting
+## Simplified performance comparisons and smarter forecasting

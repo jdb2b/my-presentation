@@ -2,10 +2,7 @@
 weight = 10
 +++
 
-# The Sales Veloctiy Equation
-## S = (O * $ * R)/T
-
-{{% fragment %}}Sales Velocity ={{% /fragment %}}
+## Sales Velocity = (O * $ * R)/T
 
 {{% fragment %}}Opps Created *{{% /fragment %}}
 {{% fragment %}}Average Deal Amt *{{% /fragment %}}
@@ -23,4 +20,4 @@ weight = 10
 
 ## Where's The Complexity?
 
-It's with your setup and 
+It's in your setup and process
