@@ -20,4 +20,4 @@ weight = 10
 
 ## Where's The Complexity?
 
-It's in your setup and process
+It's in your CRM setup and your process of deal elimination
