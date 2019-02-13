@@ -11,8 +11,8 @@ How to use it effectively</br></br></br>
 
 ---
 
-## {{% fragment %}}Educate on Disqualification{{% /fragment %}}
-## {{% fragment %}}Create Nurture Policy{{% /fragment %}}
+## Educate on Disqualification
+## {{% fragment %}}Create a Nurture Policy{{% /fragment %}}
 ## {{% fragment %}}Enrich Account Data{{% /fragment %}}
 ## {{% fragment %}}Create Formulas & Reports{{% /fragment %}}
 
