@@ -6,3 +6,9 @@ outputs = ["Reveal"]
 # Sales Velocity
 
 The most important metric for your business
+
+---
+
+# Why?
+
+Simplified performance comparisons and smarter forecasting

@@ -2,7 +2,8 @@
 weight = 10
 +++
 
-# S = (O * $ * R)/T
+# The Sales Veloctiy Equation
+## S = (O * $ * R)/T
 
 {{% fragment %}}Sales Velocity ={{% /fragment %}}
 
@@ -14,12 +15,12 @@ weight = 10
 
 ---
 
-## Seems easy right?
+## Seems Easy Right?
 
-{{% fragment %}}Wrong{{% /fragment %}}
+{{% fragment %}}Not Exactly{{% /fragment %}}
 
 ---
 
-## Where's the complexity?
+## Where's The Complexity?
 
-Let's take a step back first
+It's with your setup and 
