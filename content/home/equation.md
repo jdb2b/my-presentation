@@ -2,6 +2,7 @@
 weight = 10
 +++
 
+# The Equation
 ## Sales Velocity = (O * $ * R)/T
 
 {{% fragment %}}Opps Created *{{% /fragment %}}
@@ -20,4 +21,4 @@ weight = 10
 
 ## Where's The Complexity?
 
-It's in your CRM setup and your process of deal elimination
+Win Rate & Average Deal Age
