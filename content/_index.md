@@ -7,13 +7,12 @@ outputs = ["Reveal"]
 
 How to use it effectively</br></br></br>
 
-<small>~ [SaaSrite](https://saasrite.com) - Enterprise Sales Building & Revenue Operations - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~</small>
+<small>~ [SaaSrite](https://saasrite.com) - Building Your Revenue Engine - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~</small>
 
 ---
 
-## Steps
+## {{% fragment %}}Educate on Disqualification{{% /fragment %}}
+## {{% fragment %}}Create Nurture Policy{{% /fragment %}}
+## {{% fragment %}}Enrich Account Data{{% /fragment %}}
+## {{% fragment %}}Create Formulas & Reports{{% /fragment %}}
 
-- Educate Team on Disqualification
-- Create A Standard Nurture Policy
-- Systematically Enrich Account Data
-- Create Custom Formulas & Reports
