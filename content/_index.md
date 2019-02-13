@@ -5,14 +5,15 @@ outputs = ["Reveal"]
 
 # Sales Velocity
 
-The most important metric for your business...</br></br></br>
+How to use it effectively</br></br></br>
 
-<small>~ [SaaSrite](https://saasrite.com) - Sales Building & Revenue Operations - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~</small>
+<small>~ [SaaSrite](https://saasrite.com) - Enterprise Sales Building & Revenue Operations - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~</small>
 
 ---
 
-## Why?
+## Steps
 
-- Simplify Performance Comparisons
-- Improve Forecasting Accuracy
-- Make Data Driven Decisions
+- Educate Team on Disqualification
+- Create A Standard Nurture Policy
+- Systematically Enrich Account Data
+- Create Custom Formulas & Reports
