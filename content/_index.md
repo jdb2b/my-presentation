@@ -4,7 +4,7 @@ outputs = ["Reveal"]
 +++
 
 # Sales Velocity
-Best practices from successful high growth companies
+Implementation Guide
 
 <br>
 <small>~ [SaaSrite](https://saasrite.com) - Building Revenue Machines - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~</small>
@@ -21,7 +21,7 @@ Best practices from successful high growth companies
 - A sales team :)
 
 <br>
-<small>*Optional but very manual effort without it</small>
+<small>*Optional but manual effort without it</small>
 
 ---
 
