@@ -4,9 +4,9 @@ outputs = ["Reveal"]
 +++
 
 # Sales Velocity
-Implementation Guide
+A Practical Guide to Implement & Measure Effectively
 
-<br>
+<br><br>
 <small>~ [SaaSrite](https://saasrite.com) - Building Revenue Machines - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~</small>
 
 <small>💡 Tip: type 'o' to see thumbnail overview.</small>
