@@ -14,11 +14,14 @@ Implementation Guide
 ---
 
 ## Prerequisites
+ 
+1. 'Disqualified' & 'Nurture' pipeline stages
 
-- 'Disqualified' & 'Nurture' as pipeline stages
-- CRM with formula fields & custom reports
-- Data enrichment service*
-- A sales team :)
+2. CRM with formula fields & custom reports
+
+3. Data enrichment service*
+
+4. A sales team :)
 
 <br>
 <small>*Optional but manual effort without it</small>
@@ -27,7 +30,8 @@ Implementation Guide
 
 ## Ongoing Requirements
 
-#### {{% fragment %}}[Disqualify Early & Often](https://www.insightsquared.com/2016/04/the-importance-of-disqualifying-leads/){{% /fragment %}}
-#### {{% fragment %}}Define a Nurture Policy{{% /fragment %}}
-#### {{% fragment %}}Enrich Account Data{{% /fragment %}}
-#### {{% fragment %}}Analyze Reports{{% /fragment %}}
+#### {{% fragment %}}> Disqualify Early & Often{{% /fragment %}}
+#### {{% fragment %}}> Define a Nurture Policy{{% /fragment %}}
+#### {{% fragment %}}> Enrich Account Data{{% /fragment %}}
+#### {{% fragment %}}> Analyze Reports{{% /fragment %}}
+
