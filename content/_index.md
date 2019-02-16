@@ -13,25 +13,55 @@ A Practical Guide to Implement & Measure Effectively
 
 ---
 
+## Introduction
+
+___
+
+### The Most Important Metric for Your Business
+>Top Search Results Detailing Its Merits
+
+<small>- [Sales Velocity - The Critical Sales Metric Your Team Probably Isn't Measuring](https://blog.marketo.com/2017/11/sales-velocity-critical-sales-metric-team-probably-isnt-measuring.html)</small>
+
+<small>- [How To Increase Your Sales By 50% In These 4 Steps](https://www.teamgate.com/blog/sales-velocity-steps/)</small>
+
+<small>- [The Sales Velocity Equation: Your First Personal Sales Ops Exercise](https://www.saleshacker.com/sales-velocity-equation/)</small>
+
+{{% note %}}
+If you're new to the equation, take some time reading the articles above to familiarize yourself with some of the key concepts.
+
+They offer a good overview but provide limited guidance on how to successfully implement with CRM. That's the purpose of this guide.
+{{% /note %}}
+
+---
+
+## OK So Where Do I Start?
+___
+
 ## Prerequisites
  
-1. 'Disqualified' & 'Nurture' pipeline stages
+- 'Disqualified' & 'Nurture' pipeline stages
 
-2. CRM with formula fields & custom reports
+- CRM with formula fields & custom reports
 
-3. Data enrichment service*
+- Data enrichment service*
 
-4. A sales team :)
+- A sales team :)
 
 <br>
 <small>*Optional but manual effort without it</small>
 
 ---
 
-## Ongoing Requirements
+## One-Time Setup
+
+1. Adjust pipeline stages in CRM (if needed)
+2. 
+___
+
+## Ongoing Maintenance
 
 #### {{% fragment %}}> Disqualify Early & Often{{% /fragment %}}
-#### {{% fragment %}}> Define a Nurture Policy{{% /fragment %}}
+#### {{% fragment %}}> Track Nurture Policy{{% /fragment %}}
 #### {{% fragment %}}> Enrich Account Data{{% /fragment %}}
 #### {{% fragment %}}> Analyze Reports{{% /fragment %}}
 
