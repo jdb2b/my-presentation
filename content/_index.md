@@ -6,6 +6,9 @@ outputs = ["Reveal"]
 # Sales Velocity
 A Practical Guide to Implement & Measure Effectively
 
+<br>
+> SV = (# * $ * %)/L
+
 <br><br>
 <small>~ [SaaSrite](https://saasrite.com) - Building Revenue Machines - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~</small>
 
@@ -18,13 +21,14 @@ A Practical Guide to Implement & Measure Effectively
 ___
 
 ### The Most Important Metric for Your Business
->Top Search Results Detailing Its Merits
+>A Few Search Results Detailing Its Merits
 
-<small>- [Sales Velocity - The Critical Sales Metric Your Team Probably Isn't Measuring](https://blog.marketo.com/2017/11/sales-velocity-critical-sales-metric-team-probably-isnt-measuring.html)</small>
+<br>
+[Sales Velocity: The Critical Sales Metric Your Team Probably Isn't Measuring](https://blog.marketo.com/2017/11/sales-velocity-critical-sales-metric-team-probably-isnt-measuring.html)
 
-<small>- [How To Increase Your Sales By 50% In These 4 Steps](https://www.teamgate.com/blog/sales-velocity-steps/)</small>
+[How To Increase Your Sales By 50% In These 4 Steps](https://www.teamgate.com/blog/sales-velocity-steps/)
 
-<small>- [The Sales Velocity Equation: Your First Personal Sales Ops Exercise](https://www.saleshacker.com/sales-velocity-equation/)</small>
+[The Sales Velocity Equation: Your First Personal Sales Ops Exercise](https://www.saleshacker.com/sales-velocity-equation/)
 
 {{% note %}}
 If you're new to the equation, take some time reading the articles above to familiarize yourself with some of the key concepts.
@@ -39,7 +43,7 @@ They offer a good overview but provide limited guidance on how to successfully i
 ___
 
 
-## System Prerequisites
+## Prerequisites
  
 - 'Disqualified' & 'Nurture' pipeline stages
 - CRM formula fields & custom reports
@@ -47,28 +51,34 @@ ___
 - A sales team :)
 
 <br>
-<small>*Automated service is ideal but manual is possible</small>
+*Automated service is ideal but manual is possible.
 
 ---
 
 ## One-Time Setup
 
-1. Modify pipeline stages in CRM (if needed)
-2. Define process for opportunity creation
-3. Create custom formula fields
-4. Enrich accounts with segment data (if needed)
+1. {{% fragment %}}Define opportunity creation{{% /fragment %}}
+2. {{% fragment %}Define disqualification & nurture policies{{% /fragment %}}
+2. {{% fragment %}}Create custom formula fields{{% /fragment %}}
+3. {{% fragment %}}Enrich accounts with segment data*{{% /fragment %}}
 
-<small>Bonus: [Automate opportunity creation](https://help.salesforce.com/articleView?id=process_overview.htm&type=5) for consistency purposes.</small>
+*Segment data includes company size, industry, or location.
 
-<small><b>Note:</b> Segment data includes company size, industry, or location. If you're not selling into different company sizes, industries, or location then one-time setup and ongoing maintenance should be straightforward.</small>
+{{% note %}}
+Optional: Automate opportunity creation with a [process builder]((https://help.salesforce.com/articleView?id=process_overview.htm&type=5)
+
+Mandatory: Clean up all current opportunities, e.g. adjust stages (DQ, Nurture, & Lost & change close dates in the past.
+{{% /note %}}
 
 ___
 
-## Ongoing Maintenance
+## Ongoing Evaluation
 
 #### {{% fragment %}}> Disqualify Early & Often{{% /fragment %}}
-#### {{% fragment %}}> Track Nurture Policy{{% /fragment %}}
-#### {{% fragment %}}> Enrich Account Data{{% /fragment %}}
-#### {{% fragment %}}> Analyze Reports{{% /fragment %}}
+#### {{% fragment %}}> Track Nurture Opps Closely{{% /fragment %}}
+#### {{% fragment %}}> Enrich Account Data Diligently{{% /fragment %}}
+#### {{% fragment %}}> Review Data Weekly{{% /fragment %}}
 
-
+{{% note %}}
+If you're not selling into different company sizes, industries, or locations then one-time setup and ongoing maintenance should be straightforward.
+{{% /note %}}
