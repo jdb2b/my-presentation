@@ -34,25 +34,34 @@ They offer a good overview but provide limited guidance on how to successfully i
 
 ---
 
-## OK So Where Do I Start?
+## OK So Where Do We Start?
+
 ___
 
-## Prerequisites
+
+## System Prerequisites
  
-- 'Disqualified' & 'Nurture' pipeline stage
+- 'Disqualified' & 'Nurture' pipeline stages
 - CRM formula fields & custom reports
-- Data enrichment service*
+- Data enrichment*
 - A sales team :)
 
 <br>
-<small>*Optional but manual effort without it</small>
+<small>*Automated service is ideal but manual is possible</small>
 
 ---
 
 ## One-Time Setup
 
-1. Adjust pipeline stages in CRM (if needed)
-2. 
+1. Modify pipeline stages in CRM (if needed)
+2. Define process for opportunity creation
+3. Create custom formula fields
+4. Enrich accounts with segment data (if needed)
+
+<small>Bonus: [Automate opportunity creation](https://help.salesforce.com/articleView?id=process_overview.htm&type=5) for consistency purposes.</small>
+
+<small><b>Note:</b> Segment data includes company size, industry, or location. If you're not selling into different company sizes, industries, or location then one-time setup and ongoing maintenance should be straightforward.</small>
+
 ___
 
 ## Ongoing Maintenance
@@ -61,4 +70,5 @@ ___
 #### {{% fragment %}}> Track Nurture Policy{{% /fragment %}}
 #### {{% fragment %}}> Enrich Account Data{{% /fragment %}}
 #### {{% fragment %}}> Analyze Reports{{% /fragment %}}
+
 
