@@ -39,12 +39,9 @@ ___
 
 ## Prerequisites
  
-- 'Disqualified' & 'Nurture' pipeline stages
-
-- CRM with formula fields & custom reports
-
+- 'Disqualified' & 'Nurture' pipeline stage
+- CRM formula fields & custom reports
 - Data enrichment service*
-
 - A sales team :)
 
 <br>
