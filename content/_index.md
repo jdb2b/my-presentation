@@ -6,11 +6,10 @@ outputs = ["Reveal"]
 # Sales Velocity
 A Practical Guide to Implement & Measure Effectively
 
-<br>
-> SV = (# * $ * %)/L
+>SV = (# * $ * %)/L
 
-<br><br>
-<small>~ [SaaSrite](https://saasrite.com) - Building Revenue Machines - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~</small>
+<br>
+~ [SaaSrite](https://saasrite.com) - Building Revenue Machines - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~
 
 <small>💡 Tip: type 'o' to see thumbnail overview.</small>
 
@@ -21,7 +20,7 @@ A Practical Guide to Implement & Measure Effectively
 ___
 
 ### The Most Important Metric for Your Business
->A Few Search Results Detailing Its Merits
+>Links To Its Merit
 
 <br>
 [Sales Velocity: The Critical Sales Metric Your Team Probably Isn't Measuring](https://blog.marketo.com/2017/11/sales-velocity-critical-sales-metric-team-probably-isnt-measuring.html)
@@ -58,11 +57,12 @@ ___
 ## One-Time Setup
 
 1. {{% fragment %}}Define opportunity creation{{% /fragment %}}
-2. {{% fragment %}Define disqualification & nurture policies{{% /fragment %}}
-2. {{% fragment %}}Create custom formula fields{{% /fragment %}}
-3. {{% fragment %}}Enrich accounts with segment data*{{% /fragment %}}
+2. {{% fragment %}}Define disqualification & nurture policies{{% /fragment %}}
+3. {{% fragment %}}Create custom formula fields{{% /fragment %}}
+4. {{% fragment %}}Enrich accounts with segment data*{{% /fragment %}}
 
-*Segment data includes company size, industry, or location.
+<br>
+{{% fragment %}}*segment data = org size, industry, or geo.{{% /fragment %}}
 
 {{% note %}}
 Optional: Automate opportunity creation with a [process builder]((https://help.salesforce.com/articleView?id=process_overview.htm&type=5)
@@ -72,12 +72,12 @@ Mandatory: Clean up all current opportunities, e.g. adjust stages (DQ, Nurture, 
 
 ___
 
-## Ongoing Evaluation
+## Ongoing Diligence
 
 #### {{% fragment %}}> Disqualify Early & Often{{% /fragment %}}
 #### {{% fragment %}}> Track Nurture Opps Closely{{% /fragment %}}
 #### {{% fragment %}}> Enrich Account Data Diligently{{% /fragment %}}
-#### {{% fragment %}}> Review Data Weekly{{% /fragment %}}
+#### {{% fragment %}}> Review Data Weekly/Monthly{{% /fragment %}}
 
 {{% note %}}
 If you're not selling into different company sizes, industries, or locations then one-time setup and ongoing maintenance should be straightforward.
