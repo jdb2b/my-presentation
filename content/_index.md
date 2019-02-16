@@ -17,7 +17,7 @@ A Practical Guide to Implement & Measure Effectively
  
 1. 'Disqualified' & 'Nurture' pipeline stages
 
-2. CRM with formula fields & custom reports
+2. CRM formula fields & custom reports
 
 3. Data enrichment service*
 
