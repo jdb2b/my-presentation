@@ -1,13 +1,13 @@
 +++
-weight = 10
+weight = 20
 +++
 
 ## The Equation
 > SV = (# * $ * %)/L
 
-{{% fragment %}}**#** Opps Created *{{% /fragment %}}
+{{% fragment %}}(**#** Opps Created *{{% /fragment %}}
 {{% fragment %}}**$** Average Deal Value *{{% /fragment %}}
-{{% fragment %}}**%** Win Rate{{% /fragment %}}
+{{% fragment %}}**%** Win Rate){{% /fragment %}}<br>
 {{% fragment %}}/ Average Deal **L**ength{{% /fragment %}}
 
 ---
@@ -15,5 +15,3 @@ weight = 10
 ## Seems Easy Right?
 
 {{% fragment %}}Not Exactly{{% /fragment %}}
-
-
