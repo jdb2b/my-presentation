@@ -22,9 +22,10 @@ ___
 
 {{% section %}}
 
->% Win Rate = Won Deals/Total Opportunities
+>% Win Rate = Won Deals/Total Opportunities that were both Closed-Won + Closed-Lost
 
-Total Opportunites is not as simple as Won + Lost in most businesses.
+Total Opportunites is not as simple as Won + Lost in most businesses.<br><br>
+We need to expose Disqualified & Nurture.
 
 <br>
 <small>
@@ -35,18 +36,14 @@ navigate down to learn more
 
 ___
 
-> Total REAL Opportunities
+> Need to calculate in terms of Total Pursuits
 
 <br>
-{{% fragment %}}Total REAL Opportunites = {{% /fragment %}}
+{{% fragment %}}Total Pursuits = {{% /fragment %}}
 {{% fragment %}}All Opportunities - {{% /fragment %}}
 {{% fragment %}}(Disqualified + Nurture){{% /fragment %}}
 
 <br>
-{{% fragment %}}Nurture is debatable.{{% /fragment %}}
-
-{{% note %}}
-If we put a good nurture policy in place, e.g. 30 days for SMB, 60 days for Midmarket, 90 days for Enterprise then many will likely move to a Closed Lost stage.
-{{% /note %}}
+{{% fragment %}}Nurture is dubious.{{% /fragment %}}
 
 {{% /section %}}

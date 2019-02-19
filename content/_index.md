@@ -11,7 +11,8 @@ A Practical Guide to Implement & Measure Effectively
 <br>
 ~ [SaaSrite](https://saasrite.com) - Building Revenue Engines - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~
 
-<small>💡 Tip: type 'o' to sroll through thumbnails.</small>
+<small>💡 Tip: type 'o' to scroll through thumbnails<br>
+type 's' to see speaker notes.</small>
 
 ---
 
@@ -20,7 +21,7 @@ A Practical Guide to Implement & Measure Effectively
 ___
 
 ### The Most Important Metric for Your Business
-Read Why
+~ Read Why ~
 
 [Sales Velocity: The Critical Sales Metric Your Team Probably Isn't Measuring](https://blog.marketo.com/2017/11/sales-velocity-critical-sales-metric-team-probably-isnt-measuring.html)
 
@@ -31,7 +32,7 @@ Read Why
 {{% note %}}
 If you're new to the equation, take some time reading these articles to familiarize yourself with Sales Velocity.
 
-They provide limited guidance on how to successfully implement and measure. That's the purpose of this guide.
+There's limited guidance on how to successfully implement and measure. That's the purpose of this guide.
 {{% /note %}}
 
 ---

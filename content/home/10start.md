@@ -6,11 +6,11 @@ weight = 10
  
 - 'Disqualified' & 'Nurture' pipeline stages
 - CRM formula fields & custom reports
-- Data enrichment
+- Data enrichment (service)
 - A sales team :)
 
 {{% note %}}
-Automated service is ideal but manual is possible.
+An automated data enrichment service is ideal but manual is possible.
 {{% /note %}}
 
 ---
@@ -29,9 +29,9 @@ Automated service is ideal but manual is possible.
 <small>{{% fragment %}}*segment data = org size, industry, or geo.{{% /fragment %}}</small>
 
 {{% note %}}
-Optional: Automate opportunity creation with a [process builder]((https://help.salesforce.com/articleView?id=process_overview.htm&type=5)
+Optional: You can automate opportunity creation with a process builder - see https://help.salesforce.com/articleView?id=process_overview.htm&type=5
 
-Mandatory: Clean up all current opportunities, e.g. adjust stages (DQ, Nurture, & Lost & change close dates in the past.
+Mandatory: Clean up all current opportunities, e.g. adjust stages (DQ, Nurture, & Lost) & change close dates that are in the past to future if applicable.
 {{% /note %}}
 
 ___
