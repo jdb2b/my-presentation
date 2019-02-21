@@ -4,20 +4,20 @@ weight = 50
 
 > SV = (# * $ * %)/L
 
-### Plug in some numbers...
+### Now Plug in some numbers...
 
-|# Opps Created   |100     |    |Won          |20  |
+|# Opps Created   |100     |    |Won          |30  |
 |-----------------|--------|----|-------------|----|
 |$ Avg Deal Value |$5000   |    |Disqualified |10  |
-|Avg Deal Length  |30 days |    |Nurture*     |10  | 
-|Sales Velocity   |$4167   |    |% Win Rate   |25% | 
+|Avg Deal Length  |30 days |    |Nurture      |10  | 
+|Sales Velocity   |$5500   |    |% Win Rate   |25% | 
 
 <small>
-% Win Rate = 20/(100-10-10) = 25%<br>
-* Subtracted Nurture Opportunities<br>
-Sales Velocity = (100 * $5000 * 25%)/30 = $4167
+% Win Rate = 30/(100-10) = 33%
+<br>
+Sales Velocity = (100 * $5000 * 33%)/30 = $5500
 </small>
 
 {{% note %}}
-Creating visibility into disqualified and nurture opps
+Provide visibility into disqualified and nurture opps
 {{% /note %}}

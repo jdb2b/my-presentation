@@ -3,7 +3,7 @@ weight = 80
 +++
 
 ### Sample Sales Velocity Report
-|<small>Company Size</small> |<small>Sum Won</small> |<small>Win Rate</small> |<small>Avg Age Won</small> |<small>Avg Value Won</small> |<small>Sales Velocity</small> |<small>Count</small> |
+|<small>Company Size</small> |<small>Sum Won</small> |<small>Win Rate</small> |<small>Avg Age Won</small> |<small>Avg Value Won</small> |<small>Sales Velocity</small> |<small>Opps Created</small> |
 |-------------|--------|---------|------------|--------------|---------------|------|
 |<small>0-50</small>|<small>100</small>|<small>35% </small>|<small>30 </small>|<small>$2400</small>|<small>$2800</small>|<small>376</small>| 
 |<small>51-200</small>|<small>67</small>|<small>33%</small>|<small>48</small>|<small>$6283</small>|<small>$9799</small>|<small>226</small>| 

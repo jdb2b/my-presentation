@@ -21,7 +21,7 @@ navigate down for equation detail
 
 > SV = (# * $ * %)/L
 
-## *#* = Opps Created
+## *#* = Opportunities Created
 
 Why use created dates instead of close dates?
 

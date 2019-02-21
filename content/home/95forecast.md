@@ -7,16 +7,20 @@ weight = 95
 ___
 
 #### Company Size, Geography, Industry, Vertical
-However you target, Sales Velocity tells you:
+>However you target,<br>
+the Sales Velocity Equation tells you:
 
-1. How many opportunities you win
-2. The average deal amount you win
-3. The average age of won deals
+{{% fragment %}}How many opportunities you create{{% /fragment %}}<br>
+{{% fragment %}}How many opportunities you win{{% /fragment %}}<br>
+{{% fragment %}}The average deal amount you win{{% /fragment %}}<br>
+{{% fragment %}}The average age of won deals{{% /fragment %}}
 
 ---
 
 ### Sample Monthly Forecast
-|<small>Rep</small>|<small>Target Co Size</small>|<small>Total Pursuits</small> |<small>Win Rate</small> |<small>Opps Won</small> |<small>Avg Age Won</small> |<small>Avg Value Won</small> |<small>Sales Velocity</small> |
-|-------------|-------------|-------------|--------|---------|------------|--------------|---------------|
-|<small>Jane</small>|<small>51-200</small>|<small>20</small>|<small>25% </small>|<small>5</small>|<small>30 </small>|<small>$10,000</small>|<small>$1667</small>|
+|<small>Rep</small>|<small>Target Co Size</small>|<small>Opps Created</small>|<small>Opps DQ</small>|<small>Opps Won</small> |<small>Win Rate</small> |<small>Avg Age Won</small> |<small>Avg Value Won</small> |<small>Sales Velocity</small> |
+|-------------|-------------|-------------|--------|---------|------------|------------|--------------|---------------|
+|<small>Jane</small>|<small>51-200</small>|<small>22</small>|<small>2</small>|<small>5 </small>|<small>25%</small>|<small>30 </small>|<small>$10,000</small>|<small>$1833</small>|
+
+<small>Assuming we use historical averages for Jane and she is a ramped salesperson we expect her to generate $600k in annual revenue if we send her 22 opportunities each month.
 
