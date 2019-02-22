@@ -10,7 +10,7 @@ ___
 >However you target,<br>
 the Sales Velocity Equation tells you:
 
-{{% fragment %}}~How many opportunities you create~{{% /fragment %}}<br>
+{{% fragment %}}~How many opportunities you pursue~{{% /fragment %}}<br>
 {{% fragment %}}~How many opportunities you win~{{% /fragment %}}<br>
 {{% fragment %}}~The average deal amount you win~{{% /fragment %}}<br>
 {{% fragment %}}~The average age of won deals~{{% /fragment %}}
