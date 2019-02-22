@@ -35,4 +35,4 @@ Sales Velocity =<br>
 {{% fragment %}}(# Won Deals/(# Opps Created - # Disqualified)){{% /fragment %}}<br>
 {{% fragment %}}/ Avg Deal Length{{% /fragment %}}<br>
 
-{{% fragment %}}<small>This tells you the daily revenue gain in a given time period, e.g. January 2018 or Q3 2018.</small>{{% /fragment %}}
+{{% fragment %}}<small>This tells you the daily revenue gain for a given time period of created opportunities, e.g. January 2018 or Q3 2018.</small>{{% /fragment %}}

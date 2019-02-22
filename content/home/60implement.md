@@ -8,7 +8,7 @@ ___
 
 ## Opportunity Creation
 
-1. ALL 'Qualification Calls' require an opportunity to at least move to Disqualified for tracking purposes.
+1. ALL 'Qualification Calls' require a created opportunity for tracking purposes even if being sent immediately to a Disqualified stage.
 2. Use a process builder to automate.
   - [Salesforce](https://trailhead.salesforce.com/en/content/learn/modules/business_process_automation/process_builder)
   - [HubSpot](https://knowledge.hubspot.com/articles/kcs_article/workflows/how-can-i-create-deals-with-a-workflow)

@@ -8,8 +8,8 @@ weight = 50
 
 |# Opps Created   |100     |    |             |    |
 |-----------------|--------|----|-------------|----|
-|$ Avg Deal Value |$5000   |    |Won          |20  |
-|Avg Deal Length  |30 days |    |Disqualified |20  | 
+|$ Avg Deal Value |$5000   |    |Disqualified |20  |
+|Avg Deal Length  |30 days |    |Won          |20  | 
 |Sales Velocity   |$3333   |    |% Win Rate   |25% | 
 
 <small>
