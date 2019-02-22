@@ -11,7 +11,7 @@ weight = 40
 >% Win Rate = Won Deals/ Total Opportunities that were both Closed Won + Closed Lost
 
 <br>
-<small>according to the following article...</small>
+according to the following article...
 #### [5 Key Sales Metrics And KPIs You Should Know](https://www.insightsquared.com/2014/03/the-5-key-sales-metrics-sales-vps-must-use-to-analyze-performance-and-results/)
 
 ___

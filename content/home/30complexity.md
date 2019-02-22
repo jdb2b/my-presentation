@@ -21,31 +21,33 @@ navigate down for equation detail
 
 > SV = (# * $ * %)/L
 
-## *#* = Opportunities Created
+#### *#* = Opportunities Created - Disqualified
 
 Why use created dates instead of close dates?
 
-<i>...because created dates are static and close dates change.</i>
+<i>...because created dates are static and close dates change. Close dates can also move into the past.</i>
 
-{{% note %}}
-Close dates can also move into the past.
-{{% /note %}}
+<br>
+<a href="#" class="navigate-down">🔽</a>
 
 ---
 
 > SV = (# * $ * %)/L
 
-## *$* = Average Deal Value
+#### *$* = Average Deal Value
 
 How do we account for deals with non-annual lengths?
 
 <i>...DO convert multi-year deals to annual contract values and DON'T convert multi-month deals.</i>
 
+<br>
+<a href="#" class="navigate-down">🔽</a>
+
 ---
 
 > SV = (# * $ * %)/L
 
-## *L* = Average Deal Length
+#### *L* = Average Deal Length
 
 How do we make sure to capture the correct deal length?
 

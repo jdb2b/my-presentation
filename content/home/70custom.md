@@ -45,10 +45,10 @@ Opportunity.Amount:SUM/Opportunity.Won__c:SUM
 
 Create 'Win Rate' & 'Sales Velocity' columns in an Opportunity Report:<br>
 ```
-Opportunity.Won__c:SUM/(RowCount-Opportunity.DQ__c:SUM-Opportunity.Nurture__c:SUM)
+Opportunity.Won__c:SUM/(RowCount-Opportunity.DQ__c:SUM)
 ```
 ```
-RowCount*(Opportunity.Amount:SUM/Opportunity.Won__c:SUM)*(WON:SUM/(RowCount-Opportunity.DQ__c:SUM-Opportunity.Nurture__c:SUM))/(Opportunity.Age__c:SUM/Opportunity.Won__c:SUM)
+(RowCount-Opportunity.DQ__c:SUM)*(Opportunity.Amount:SUM/Opportunity.Won__c:SUM)*((WON:SUM/(RowCount-Opportunity.DQ__c:SUM))/(Opportunity.Age__c:SUM/Opportunity.Won__c:SUM)
 ```
 
 {{% note %}}

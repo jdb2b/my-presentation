@@ -6,16 +6,16 @@ weight = 50
 
 ### Now Plug in some numbers...
 
-|# Opps Created   |100     |    |Won          |30  |
+|# Opps Created   |100     |    |             |    |
 |-----------------|--------|----|-------------|----|
-|$ Avg Deal Value |$5000   |    |Disqualified |10  |
-|Avg Deal Length  |30 days |    |Nurture      |10  | 
-|Sales Velocity   |$5500   |    |% Win Rate   |25% | 
+|$ Avg Deal Value |$5000   |    |Won          |20  |
+|Avg Deal Length  |30 days |    |Disqualified |20  | 
+|Sales Velocity   |$3333   |    |% Win Rate   |25% | 
 
 <small>
-% Win Rate = 30/(100-10) = 33%
+% Win Rate = 20/(100-20) = 25%
 <br>
-Sales Velocity = (100 * $5000 * 33%)/30 = $5500
+Sales Velocity = ((100-20) * $5000 * 25%)/30 = $3333
 </small>
 
 {{% note %}}
