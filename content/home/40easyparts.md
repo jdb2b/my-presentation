@@ -1,14 +1,10 @@
 +++
-weight = 30
+weight = 40
 +++
 
 {{% section %}}
 
-## Where's The Complexity?
-
-> Mostly % Win Rate
-
-...but first the EASIER PARTS.
+## Now The Easier Parts of Sales Velocity
 
 <br>
 <small>
@@ -21,11 +17,13 @@ navigate down for equation detail
 
 > SV = (# * $ * %)/L
 
-#### *#* = Opportunities Created - Disqualified
+#### *#* = Total Qualified Opps<br>
+<small>(created in a defined time period, e.g. Q1 2018)</small>
 
 Why use created dates instead of close dates?
 
-<i>...because created dates are static and close dates change. Close dates can also move into the past.</i>
+<i>...created dates are static and<br>
+close dates change too much.</i>
 
 <br>
 <a href="#" class="navigate-down">🔽</a>

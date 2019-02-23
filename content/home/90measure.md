@@ -53,7 +53,7 @@ Q1 vs. Q2 vs. Q3 vs. Q4<br>
 Salesperson A vs. Salesperson B<br>
 2018
 
-|<small>Sales Rep</small> |<small>Sum Won</small> |<small>Sum Lost</small> |<small>Sum DQ</small> |<small>Sum Nurt</small> |<small>Win Rate</small> |<small>Avg Age Won</small> |<small>Avg Value Won</small> |<small>Sales Velocity</small> |<small>Count</small> |
+|<small>Sales Rep</small> |<small>Sum Won</small> |<small>Sum Lost</small> |<small>Sum DQ</small> |<small>Sum Nurt</small> |<small>Win Rate</small> |<small>Avg Age Won</small> |<small>Avg Value Won</small> |<small>Sales Velocity</small> |<small>Opps Created</small> |
 |-------------|-------------|-------------|-------------|--------|---------|------------|--------------|---------------|------|
 |<small>A</small>|<small>135</small> |<small>141</small> |<small>29</small> |<small>4</small>|<small>46% </small>|<small>39</small>|<small>$4512</small>|<small>$17,351</small>|<small>324</small>| 
 |<small>B</small>|<small>99</small> |<small>210</small> |<small>15</small> |<small>35</small>|<small>30%</small>|<small>37</small>|<small>$6032</small>|<small>$18,652</small>|<small>384</small>| 
