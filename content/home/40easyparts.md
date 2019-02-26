@@ -47,8 +47,8 @@ How do we account for deals with non-annual lengths?
 
 #### *L* = Average Deal Length
 
-How do we make sure to capture the correct deal length?
+How do we make sure to capture<br> the correct deal length?
 
-<i>...make sure no deal gets created too late or sits in Nurture too long.</i>
+<i>...make sure no deal gets created too late<br> or sits in Nurture too long.</i>
 
 {{% /section %}}

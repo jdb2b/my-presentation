@@ -13,16 +13,17 @@ weight = 30
 ><small>% Win Rate = Won Deals/ Total Opportunities that were both Closed Won + Closed Lost</small>
 
 <br>
-according to the following article...
+that's according to the following article...
 #### [5 Key Sales Metrics And KPIs You Should Know](https://www.insightsquared.com/2014/03/the-5-key-sales-metrics-sales-vps-must-use-to-analyze-performance-and-results/)
 
 ---
 
 {{% section %}}
 
-But Closed-Won + Closed-Lost does not cover total opportunities in most businesses.<br><br>
+BUT<br>
+Closed-Won + Closed-Lost does not cover total opportunities in most businesses.<br><br>
 
-What about Disqualified, Nurture, and other Open opportunities?
+What about Disqualified, Nurture, and other Open opportunities with close dates in the past?
 
 <br>
 <small>

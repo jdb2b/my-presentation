@@ -4,7 +4,7 @@ weight = 35
 
 ## Why is Nurture Dubious?
 
-Nurture is a limbo stage for prospects not ready to purchase and mostly used to claim ownership.
+Nurture is a limbo stage for prospects not ready to purchase and used by salespeople to claim long term ownership of an opportunity.
 
 {{% note %}}
 If you put a nurture policy in place, e.g. 30 days for SMB, 60 days for Midmarket, 90 days for Enterprise then opportunities should automatically move to Closed Lost at the end of that time period.
@@ -12,12 +12,12 @@ If you put a nurture policy in place, e.g. 30 days for SMB, 60 days for Midmarke
 
 ___
 
-#### Use 'Disqualified' or 'Closed Lost' before using 'Nurture'
+#### Encourage 'Disqualified' or 'Closed Lost' before 'Nurture'
 Lumpy use of nurture opportunities will make Sales Velocity comparisons difficult over time.
 
 ___
 
-### Now A Closer Look at What % Win Rate Should Be
+### % Win Rate Should Be
 
 >% Win Rate = Won Deals/Total Qualified Opps
 
