@@ -4,7 +4,7 @@ weight = 35
 
 ## Why is Nurture Dubious?
 
-Nurture is a limbo stage for prospects not ready to purchase and used by salespeople to claim long term ownership of an opportunity.
+Nurture is a limbo stage for prospects not ready to purchase and typically used by salespeople to claim ownership of an opportunity.
 
 {{% note %}}
 If you put a nurture policy in place, e.g. 30 days for SMB, 60 days for Midmarket, 90 days for Enterprise then opportunities should automatically move to Closed Lost at the end of that time period.
