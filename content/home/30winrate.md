@@ -38,6 +38,8 @@ ___
 
 <small>(created in a defined time period)</small>
 
+<a href="#" class="navigate-down">🔽</a>
+
 {{% fragment %}}Total Qualified Opps = {{% /fragment %}}
 {{% fragment %}}Closed Won +{{% /fragment %}}<br>
 {{% fragment %}}Closed Lost +{{% /fragment %}}<br>
