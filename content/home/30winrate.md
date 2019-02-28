@@ -23,7 +23,7 @@ that's according to the following article...
 BUT<br>
 Closed-Won + Closed-Lost does not cover total opportunities in most businesses.<br><br>
 
-What about Disqualified, Nurture, and other Open opportunities with close dates in the past?
+What about Disqualified, Nurture, and other Open opportunities?
 
 <br>
 <small>
@@ -32,6 +32,9 @@ navigate down to learn more
 <br>
 <a href="#" class="navigate-down">🔽</a>
 
+{{% note %}}
+Oftentimes it's up to CRM users to update a Close Date field in the CRM or requires automation.
+{{% /note %}}
 ___
 
 > We need to calculate % Win Rate in terms of Total Qualified Opps<br>
