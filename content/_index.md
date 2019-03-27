@@ -31,11 +31,10 @@ ___
  <small>- [Custom Formulas](#/22)</small>
  <small>- [Create Report](#/23)</small>
 - [Measure](#/24)<br>
- <small>- [Target Industriesh](#/25/1)</small>
+ <small>- [Target Industries](#/25/1)</small>
  <small>- [Fiscal Periods](#/25/2)</small>
  <small>- [Personnel](#/25/3)</small>
  <small>- [Opportunity Types](#/25/4)</small>
-
 - [Forecast](#/26)<br>
 
 ---
