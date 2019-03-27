@@ -2,7 +2,11 @@
 weight = 90
 +++
 
-## Measure
+## Measure & Compare
+- [Target Industrues](#/25/1)<br>
+- [Fiscal Periods](#/25/2)<br>
+- [Personnel](#/25/3)<br>
+- [Opportunity Types](#/25/4)<br>
 
 ___
 
@@ -19,7 +23,7 @@ use the down arrow or swipe down to continue
 
 ---
 
-## Target Industry
+## Target Industries
 Software vs. Pro Services vs. IT<br>
 2018
 
@@ -62,7 +66,7 @@ Salesperson A vs. Salesperson B<br>
 <a href="#" class="navigate-down">🔽</a>
 ___
 
-## Opportunity Type
+## Opportunity Types
 New Business vs. Expansion Business<br>
 2018
 

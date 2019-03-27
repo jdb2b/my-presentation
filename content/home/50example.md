@@ -5,10 +5,10 @@ weight = 50
 ## Closer Look At
 
 Sales Velocity = (# * $ * %) / L<br>
-{{% fragment %}}<small>(created in a defined time period, e.g. Q1 2018)</small>{{% /fragment %}}<br>
-{{% fragment %}}*#* (Opps Created - Disqualified) * *$* Avg Deal Value *{{% /fragment %}}<br>
-{{% fragment %}}*%* (# Won Deals/(# Opps Created - # Disqualified)){{% /fragment %}}<br>
-{{% fragment %}}/ Avg Length of Deal{{% /fragment %}}<br>
+{{% fragment %}}<small>(created in a defined time period, e.g. Q1 2018)</small>{{% /fragment %}}<br><br>
+{{% fragment %}}*#* (Opps Created - Disqualified) * *$* Avg Deal Value *{{% /fragment %}}<br><br>
+{{% fragment %}}*%* (# Won Deals/(# Opps Created - # Disqualified)){{% /fragment %}}<br><br>
+{{% fragment %}}/ Avg Length of Deal{{% /fragment %}}<br><br>
 
 {{% fragment %}}<small>Sales Velocity shows you the daily revenue gain for a given time period of created opportunities, e.g. Q1 2018, January 2018, FY 2018, or Last Week.</small>{{% /fragment %}}
 

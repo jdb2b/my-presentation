@@ -23,5 +23,6 @@ ___
 
 Total Qualified Opps = All Opps Created - Disqualified<br>
 
-<small>(All Opps Created - Disqualified) = (Closed Won + Closed Lost + Nurture + Open)</small>
-
+{{% note %}}
+All Opps Created - Disqualified = (Closed Won + Closed Lost + Nurture + Open)
+{{% /note %}}
