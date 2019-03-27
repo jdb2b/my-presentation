@@ -6,6 +6,8 @@ weight = 35
 
 Nurture is a limbo stage for prospects not ready to purchase and typically used by salespeople to claim ownership of an opportunity.
 
+If opportunities stay in a Nurture stage for too long and then move to Closed Won, your overall average deal age will be artificially high and drag down Sales Velocity. 
+
 {{% note %}}
 If you put a nurture policy in place, e.g. 30 days for SMB, 60 days for Midmarket, 90 days for Enterprise then opportunities should automatically move to Closed Lost at the end of that time period.
 {{% /note %}}
