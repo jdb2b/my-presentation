@@ -3,7 +3,7 @@ weight = 90
 +++
 
 ## Measure & Compare
-- [Target Industrues](#/25/1)<br>
+- [Target Industries](#/25/1)<br>
 - [Fiscal Periods](#/25/2)<br>
 - [Personnel](#/25/3)<br>
 - [Opportunity Types](#/25/4)<br>

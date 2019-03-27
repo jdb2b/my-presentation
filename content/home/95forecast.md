@@ -6,7 +6,7 @@ weight = 95
 
 ___
 
-#### Company Size, Geography, Industry, Vertical
+#### Personnel, Company Size, Industry, Vertical
 >However you target,<br>
 the Sales Velocity Equation tells you:
 

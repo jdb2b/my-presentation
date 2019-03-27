@@ -15,8 +15,6 @@ ___
 
 ## Table of Contents
 
-- [Introduction](#/2)<br>
- <small>- [Articles](#/3)</small>
 - [Where To Start?](#/4)<br>
  <small>- [Prerequisites](#/5)</small>
  <small>- [One-Time Setup](#/6)</small>
@@ -33,6 +31,11 @@ ___
  <small>- [Custom Formulas](#/22)</small>
  <small>- [Create Report](#/23)</small>
 - [Measure](#/24)<br>
+ <small>- [Target Industriesh](#/25/1)</small>
+ <small>- [Fiscal Periods](#/25/2)</small>
+ <small>- [Personnel](#/25/3)</small>
+ <small>- [Opportunity Types](#/25/4)</small>
+
 - [Forecast](#/26)<br>
 
 ---
