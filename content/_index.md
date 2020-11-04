@@ -8,9 +8,6 @@ A Practical Guide to Implement & Measure Effectively
 
 >SV = (# * $ * %)/L
 
-<br>
-~ [SaaSrite](https://saasrite.com) - Building Revenue Engines - [Jon Dwyer](https://www.linkedin.com/in/jondwyer/) ~
-
 ___
 
 ## Table of Contents
